@@ -8,3 +8,5 @@
 /simpleExpressionEvaluator/build/
 /JavaApplication18/nbproject/private/
 /JavaApplication18/build/
+
+*.class		# compiled java bytecode
