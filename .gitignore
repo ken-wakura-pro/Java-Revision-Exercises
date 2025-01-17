@@ -10,3 +10,4 @@
 /JavaApplication18/build/
 
 *.class		# compiled java bytecode
+*.txt		# Sample input/output files
