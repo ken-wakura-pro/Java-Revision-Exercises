@@ -9,5 +9,5 @@
 /JavaApplication18/nbproject/private/
 /JavaApplication18/build/
 
-*.class		# compiled java bytecode
-*.txt		# Sample input/output files
+*.class
+*.txt
