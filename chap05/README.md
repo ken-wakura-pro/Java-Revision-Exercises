@@ -1,4 +1,4 @@
-# Chapter 4
+# Chapter 5
 ## Programming in the Large II: Objects and Classes
 Contents of Chapter 5:
 - Objects, instance methods, and instance variables
