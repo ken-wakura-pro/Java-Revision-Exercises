@@ -1,3 +1,7 @@
+package exercise5_1;
+
+import utils.PairOfDice;
+
 /**
  * This class is used to test {@code PairOfDice} class implementation.
  * <p>

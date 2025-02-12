@@ -1,3 +1,7 @@
+package exercise5_2;
+
+import utils.StatCalc;
+import java.util.Scanner;
 /**
  * This class implements a program to test the StatCalc class.
  * This program is a solution to <a href="https://math.hws.edu/javanotes/c5/exercises.html">Exercise 5.2</a> 
@@ -7,7 +11,7 @@
  */
 public class TestStatCalc {
     public static void main(String args[]) {
-        java.util.Scanner stdin = new java.util.Scanner(System.in);
+        Scanner stdin = new Scanner(System.in);
         StatCalc calc = new StatCalc();
         double num;
         

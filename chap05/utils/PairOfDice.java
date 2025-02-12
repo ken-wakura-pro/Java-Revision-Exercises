@@ -1,3 +1,5 @@
+package utils;
+
 /**
  * The {@code PairOfDice} class represents a pair of dice with methods to roll them,
  * retrieve their values, and display them as a string.
